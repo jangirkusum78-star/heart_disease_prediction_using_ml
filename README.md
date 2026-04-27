@@ -66,7 +66,7 @@ This helped convert categorical data into machine-readable format.
 
 ---
 
-## 🤖 Model Building
+##  Model Building
 
 The following machine learning models were used:
 
@@ -92,7 +92,7 @@ The following machine learning models were used:
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 Models were evaluated using:
 
@@ -103,13 +103,13 @@ Models were evaluated using:
 
 ---
 
-## 💡 Suggestions
+##  Suggestions
 
 * use the model for early identification of disease
 * support doctors in prioritizing patients
 ---
 
-## ⚠️ Challenges Faced
+##  Challenges Faced
 
 * Small dataset (only 180 rows) → risk of overfitting
 * Handling categorical variables properly
@@ -118,7 +118,7 @@ Models were evaluated using:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas, NumPy
@@ -127,13 +127,13 @@ Models were evaluated using:
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 Machine learning models can effectively predict heart disease. Among the models tested, ensemble methods like Random Forest  and SVC performed better due to their ability to handle complex patterns.
 
 ---
 
-## 📂 How to Run
+##  How to Run
 
 ```bash
 pip install -r requirements.txt
@@ -141,7 +141,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📌 Future Work
+##  Future Work
 
 
 * Deploy using Streamlit
